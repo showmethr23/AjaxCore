@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NDoStW/T6dogF8H/BVyyjxPHJHU3VVIHcQ4jXGecy8sv3HAUx65EJuh0tvJ1lAzrnzPNRYCbsEhCaSOJ/PIn5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\showm\\Desktop\\web1\\AjaxCore\\AjaxCore\\AjaxCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\showm\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
